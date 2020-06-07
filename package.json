@@ -14,7 +14,7 @@
     "pub-commit": "git add . && git commit -m \"Updates\" && npm version patch && npm run build && npm publish"
   },
   "author": "Gustavo Marin Suppi",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "del-cli": "^3.0.1",
     "typescript": "^3.9.3"
