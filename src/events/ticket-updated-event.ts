@@ -16,4 +16,5 @@ export interface TicketUpdateEventData {
   price: number
 	userId: string
 	version: number
+	orderId?: string
 }
