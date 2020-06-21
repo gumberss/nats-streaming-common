@@ -12,7 +12,7 @@ export enum OrderStatus {
   /**
    * The order has successfully reserved the ticket
    */
-  AwaitingPatment = 'await:payment',
+  AwaitingPayment = 'await:payment',
   /**
    * The order has reserved the ticket and the 
    * user has provided payment successfully
